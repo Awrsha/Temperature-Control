@@ -1,6 +1,6 @@
 Thanks to [Dr. Babak Karasfi](https://ir.linkedin.com), one of the professors of Islamic Azad University, for her support and encouragement for us to start this project.
 
-<h1 align="center"> <br><a href="https://github.com/Awrsha/Temperature-Control"><img src="https://s2.uupload.ir/files/picsart_23-03-22_21-53-01-541_no85.png" alt="HSL" width="200"></a> <br> Qazvin Islamic Azad University <br></h1><b><h4 align="center">.:: Shooter Game ::.</h4></b><p align="center"><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Platform-windows-blue" alt="HSL" width="130"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/LICENSE-MIT-yellow" alt="HSL" width="110"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Developers-3-lightgrey" alt="HSL" width="100"></a></p>
+<h1 align="center"> <br><a href="https://github.com/Awrsha/Temperature-Control"><img src="https://s2.uupload.ir/files/picsart_23-03-22_21-53-01-541_no85.png" alt="HSL" width="200"></a> <br> Qazvin Islamic Azad University <br></h1><b><h4 align="center">.:: Shooter Game ::.</h4></b><p align="center"><a href="https://github.com/Awrsha/Temperature-Control"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a><a href="https://github.com/Awrsha/Temperature-Control"><img src="https://img.shields.io/badge/Platform-windows-blue" alt="HSL" width="130"></a><a href="https://github.com/Awrsha/Temperature-Control"><img src="https://img.shields.io/badge/LICENSE-MIT-yellow" alt="HSL" width="110"></a><a href="https://github.com/Awrsha/Temperature-Control"><img src="https://img.shields.io/badge/Developers-2-lightgrey" alt="HSL" width="100"></a></p>
 
 <h1 align="center"> <br><a href="https://github.com/Awrsha/Temperature-Control"><img src="https://github.com/Awrsha/Temperature-Control/assets/89135083/77288bf7-b9c6-4f62-ad7f-7dc3e50508ad" alt="HSL" width="500"></a><br> A Project Presented By Me <br></h1>
 
@@ -66,3 +66,17 @@ After entering the necessary codes, connect the board to the computer through a 
 ## New Idea
 
 By writing a simple program, you can connect the temperature information to your mobile phone with a USB or Type-C cable instead of displaying it on the LCD and view it on the mobile phone.
+
+## Developers 👨🏻‍💻
+
+<p align="center">
+
+<a href="https://github.com/Awrsha"><img src="https://avatars.githubusercontent.com/u/89135083?v=4" width="100;" alt="Awrsha Parvizi"/><br /><sub><b>.:: Amir M. Parvizi ::.</b></sub></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Mohsen020"><img src="https://avatars.githubusercontent.com/u/127343209?v=4" width="100;" alt="Mohsen Moradi"/><br /><sub><b>.:: Mohsen Moradi ::.</b></sub></a>
+
+</p>
